@@ -64,4 +64,4 @@ Strong understanding of subqueries and analytical functions
 
 Ability to solve real-world result and reporting problems using SQL
 
-💡 This project reflects my continuous learning in databases and backend data handling.
+💡 This project reflects my continuous learning in databases and backend data handling.  
